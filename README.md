@@ -5,6 +5,26 @@ India-based sending organization (送り出し機関) connecting Indian workers 
 caregiving, construction/manufacturing, and IT to Japanese receiving
 organizations (監理団体・登録支援機関・企業).
 
+## Live demo
+
+Two visual designs of the same content, deployed on Cloudflare:
+
+| | URL | Design concept |
+|---|---|---|
+| **Design A** (original) | https://trust-shahid-website.hsushunlailaiphyo.workers.dev/ | 藍 (indigo) — the dye that traveled from India to Japan; a "crossing thread" connects the two countries |
+| **Design B** (built following the [anthropics/skills frontend-design](https://github.com/anthropics/skills) skill) | https://trust-shahid-website.hsushunlailaiphyo.workers.dev/v2/ | 朱印 (vermilion seal) — travel documents and certification; 縦書き headline and a visa-style seal |
+
+### Screenshots
+
+**Design A** — indigo "crossing thread" concept:
+
+<img src="docs/screenshots/design-a-hero.png" alt="Design A hero (desktop)" width="700">
+<img src="docs/screenshots/design-a-mobile.png" alt="Design A (mobile)" width="200">
+
+**Design B** — vermilion seal concept, skill-guided:
+
+<img src="docs/screenshots/design-b-hero.png" alt="Design B hero (desktop)" width="700">
+
 **All company details, names, figures, and claims on the site are fictitious
 placeholder content.** The site deliberately avoids asserting any specific
 certification or registration status.
