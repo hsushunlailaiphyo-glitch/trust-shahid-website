@@ -1,0 +1,10 @@
+{
+  // Cloudflare configuration: serve this repository as a static site.
+  // Used by the "npx wrangler deploy" step in Cloudflare's git integration.
+  "name": "trust-shahid-website",
+  "compatibility_date": "2026-08-18",
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "single-page-application"
+  }
+}
